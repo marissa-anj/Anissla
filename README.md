@@ -1,15 +1,12 @@
 # Anissla
 
+Anissla is an e-commerce platform that allows users to browse and purchase athletic apparel. Customers can create an account, add items to their cart, and checkout securely using a payment method of their choice. Administrations can add inventory, ban users, and check on previous orders. 
 
-Third-year software engineering project
+This project was a deep dive into website building using Django, HTML, CSS, Javascript, and Python. This was developed as a third-year software engineering project, to help practice SCRUM methodologies during long-term projects. To learn more about the project creation, head to our [Documentation Report](https://docs.google.com/document/d/1HRPzuFiMgS68N-DmTE5uaxqd-THg67PxgB2T3Bai5I4/edit?usp=sharing).
 
-Anissla is an e-commerce platform for athletic apparel. Our website is built using Django, HTML, CSS, Javascript, and Python
+This project is still undergoing changes, thanks for visiting!
 
-
-Our website allows users to browse and purchase athletic apparel. Users can create an account, add items to their cart, and checkout securely using a payment method of their choice.
-
-
-This project is still undergoing changes! 
+-Annisla (An Pham, Marissa Angeles, and Necla Tefon)
 
 Customer's View
 Homepage: 
